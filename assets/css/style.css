@@ -101,7 +101,8 @@ footer {
 	height: 60px;
 	background-color: #4aaaa5;
 	border-style: hidden;
-
+	color: #ffffff;
+	font-size: 15px;
 }
 
 #message {
