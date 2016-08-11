@@ -8,9 +8,7 @@ header {
 	font: font-family: 'Georgia', Times, Times New Roman, serif;
 	font-size: 30px;
 	background-color: #4aaaa5;
-	float: left;
-	
-	
+	float: left;	
 	text-align: center;
 	padding: 10px;
 }
@@ -96,6 +94,16 @@ footer {
 	top: 0px;
 	border-top-style: solid;
 	border-top-color: #4aaaa5;
+}
 
+#button {
+	width: 200px;
+	height: 60px;
+	background-color: #4aaaa5;
+	border-style: hidden;
 
+}
+
+#message {
+	height: 50px;
 }
