@@ -1,55 +1,101 @@
-
-
+.everything {
+	width: 960px;
+	margin-left: 15%;	
+}
 
 header {
-	font-family: 'Georgia', Times, Times New Roman, serif;
-	font-size: 36px;
-	color: white;
+	color: #ffffff;
+	font: font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 30px;
 	background-color: #4aaaa5;
-	padding: 5px 20px 5px 20px;
-	float:left;
-	margin-left: 15%;
+	float: left;
+	
+	
+	text-align: center;
+	padding: 10px;
+}
+
+h1 {
+	clear: left;
+	margin-left: 20px;
+	color: #4aaaa5;
+	font-size: 30px;
+	width: 80%;
+	border-bottom-style: solid;
+	border-color: #dddddd;
+}
+
+.menu {
+	float: right;
+	width: 270px;
+	text-align: center;  
+	height: 50px;
+	background-color: white;
+
 
 }
 
 img {
 	float: left;
-	width: 15%;
-	height: 15%;
-	s
-
+	margin-left: 20px;
 }
 
-h1 {width: 70%;
-	clear: left;
-	color: #4aaaa5;
-	float: left;
-	margin-left: 2%;
-	border-bottom-style: solid;
-	border-bottom-color: #cccccc;
-
+.text {
+	height: 350px;
+	margin-left: 20px;
+	color: #777777;
+	width: 80%;
 }
 
-.main{
-	clear: left
-	width: 20%;
-	margin-left: 20%;
+p {
+	color: #777777;
 }
 
+textarea{
+width: 600px;
 
-section {clear: left;
-	background-color: #ffffff;
-	margin-left: 2%;
-	margin-right: 15%;
+}
+.main {
+	position: relative;
+	top: 100px;
+	width: 650px;
+	padding-top: 0px;
 	border-style: solid;
 	border-color: #dddddd;
-	width: 70%;
+	background-color: white;
 }
 
-section {
+.links {
+	color: #4aaaa5;
 	float: left;
+	position: relative;
+	left: 683px;
+	top: -373px;
+	width: 270px;
+	border-style: solid;
+	border-color: #dddddd;
+	text-align: center;
+	background-color: white;
+}
+h3 {
+	text-decoration: underline;
 }
 
-menu {
+.linkimages {
+
+}
+
+footer {
 	float: right;
+	background-color: #666666;
+	width: 860px;
+	padding: 50px;
+	text-align: center;
+	color: #777777;
+	position: relative;
+	top: 0px;
+	border-top-style: solid;
+	border-top-color: #4aaaa5;
+
+
 }
